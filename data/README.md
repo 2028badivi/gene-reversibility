@@ -1,4 +1,8 @@
 ***query_results.csv***
+
+
+\n
+
 will have the JSON output for the Semantic Scholar API for each of the text queries to find reversibility of the neurodevelopmental disease/disorder,
 as a result of restoration of the disease-causing gene to the back to normal function. 
 
